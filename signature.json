@@ -3,8 +3,8 @@
   "app": "hosting-v2",
   "package": "com.alaa.hosting",
   "signatures": {
-    "sha256": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC",
-    "sha1": "61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81"
+    "sha256": "B8:D2:5B:84:5F:27:6E:25:85:1F:7A:86:26:1F:C9:C9:8E:D4:80:22:40:C3:1B:21:D4:66:95:8D:5E:25:09:6C",
+    "sha1": "27:CA:80:66:F4:92:9E:BE:98:61:AE:45:6F:EC:42:3B:8B:17:79:84"
   },
   "min_version": "1.0.0",
   "updated_at": "2026-10-31T00:00:00Z"
